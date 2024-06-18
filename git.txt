@@ -1,0 +1,15 @@
+//Create a folder in d drive and copy path
+>cd path
+>git init
+Create a text file in the folder and copy path
+>git add path
+>git commit -m "first commit"
+>git remote add origin git_repository_path
+>git push -u origin master
+>git pull origin master
+>git fetch --all
+>git branch
+>git branch a1
+>git branch -d a1   (delete a branch)
+>git checkout -b m1
+>git fetch --all
