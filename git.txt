@@ -13,3 +13,5 @@ Create a text file in the folder and copy path
 >git branch -d a1   (delete a branch)
 >git checkout -b m1
 >git fetch --all
+Git reset —soft
+git log
